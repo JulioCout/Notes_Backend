@@ -4,7 +4,7 @@ const AppError = require("../utils/AppError")
 const sqliteConnection = require("../database/sqlite")
 
 
-class UsersControllers {
+class UsersController {
     /**
      * index - GET para listar vários registros.
      * show - GET para exibir um registro especifico.
@@ -77,4 +77,4 @@ class UsersControllers {
 
 }
 
-module.exports = UsersControllers;
+module.exports = UsersController;
