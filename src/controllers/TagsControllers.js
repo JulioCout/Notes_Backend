@@ -13,4 +13,4 @@ class TagsController {
 
 
 
-module.exports =TagsController;
+module.exports = TagsController;
