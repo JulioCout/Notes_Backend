@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "Backend",
   "version": "1.0.0",
-  "description": "API desenvolvida no programa Explorer da Rocketseat",
+  "description": "Backend desenvolvido por Julio no curso da Rocketseat",
   "main": "index.js",
   "scripts": {
     "start": "pm2-runtime start ecosystem.config.js --env production",
