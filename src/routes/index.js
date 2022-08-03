@@ -1,4 +1,4 @@
-const {Router} = require("Express");
+const {Router} = require("express");
 
 const usersRoutes = require("./users.routes")
 const notesRoutes = require("./notes.routes")
