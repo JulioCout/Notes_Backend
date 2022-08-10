@@ -1,7 +1,7 @@
 
 # Notes
 
-Backend de aplicação para guardar anotações e links uteis.
+Backend de aplicação para guardar anotações e links úteis.
 
 
 ## Funcionalidades
