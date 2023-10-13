@@ -1,7 +1,7 @@
 
 # Notes
 
-Backend de aplicação para guardar anotações e links úteis.
+REST API with Node.js, Express and Sqlite.
 
 
 ## Funcionalidades
@@ -16,7 +16,7 @@ Backend de aplicação para guardar anotações e links úteis.
 
 ## Stack utilizada
 
-**Back-end:** Node, Express, Sqlite, Jest, Git, Bcrypt, Jsonwebtoken...
+Node, Express, Sqlite, Jest, Git, Bcrypt, Jsonwebtoken...
 ## Screenshots
 
 ![Login](https://i.imgur.com/wDmBMVU.png)
