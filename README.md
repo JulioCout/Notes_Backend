@@ -1,5 +1,5 @@
 
-# Notes
+# REST API with Node.js
 
 REST API with Node.js, Express and Sqlite.
 
